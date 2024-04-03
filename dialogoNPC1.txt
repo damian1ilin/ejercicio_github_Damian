@@ -1,5 +1,4 @@
 Bit late to be wandering around, isn't it?
 Huh? It must have been the wind
 Everything all right?
-["dialogoNPC-NO"]
-["dialogoNPC-SI"]
+["dialogoNPC-NO" , "dialogoNPC-SI"]
